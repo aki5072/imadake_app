@@ -644,7 +644,7 @@ if st.button("生成"):
         st.components.v1.html(url_copy_html, height=60)
 
     # HTMLコードの生成と保存
-    template_dir = '/Users/aki5072/Library/Mobile Documents/com~apple~CloudDocs/47_CLUB_メルマガマニュアル/元データ_今だけ、ここだけ/template'
+    template_dir = '/Users/akiakko0526/Library/Mobile Documents/com~apple~CloudDocs/47_CLUB_メルマガマニュアル/元データ_今だけ、ここだけ/template'
 
     # テンプレートファイルの存在確認 - ファイル名を修正
     pc_template_path = f"{template_dir}/template_imadake_pc.html"
